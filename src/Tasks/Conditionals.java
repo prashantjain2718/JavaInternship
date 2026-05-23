@@ -1,6 +1,6 @@
-package May21;
+package Tasks;
 import java.util.Scanner;
-public class Tasks {
+public class Conditionals {
     static void main() {
         Scanner sc = new Scanner(System.in);
         /*
